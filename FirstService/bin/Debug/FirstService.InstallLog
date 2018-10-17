@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\CC6\aspnet\other\FirstService\bin\Debug\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\CC6\aspnet\other\FirstService\bin\Debug\FirstService.InstallLog
+   assemblypath = C:\CC6\aspnet\other\FirstService\bin\Debug\FirstService.exe
+Installing service FirstService...
+Service FirstService has been successfully installed.
+Creating EventLog source FirstService in log Application...
+Committing assembly 'C:\CC6\aspnet\other\FirstService\bin\Debug\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\CC6\aspnet\other\FirstService\bin\Debug\FirstService.InstallLog
+   assemblypath = C:\CC6\aspnet\other\FirstService\bin\Debug\FirstService.exe
